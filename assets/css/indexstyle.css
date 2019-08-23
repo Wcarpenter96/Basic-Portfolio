@@ -1,24 +1,33 @@
+/* GENERAL FORMATTING */
+
 img {
-    float: left;
-  }
+  
+  /* layout */
+  float: left;
+
+}
 
 /* CONTENT FORMATTING */
 
 .title{
 
-  color:#4aaaa5;
   border-bottom:3px solid #dddddd;
+  /* text */
+  color:#4aaaa5;
+
 }
 
 
 .content{
 
-  width:960px;
-  height:500px;
-  top:50px;
-  margin: 100px auto 100px auto;
+  /* layout */
   position:relative;
-  background-color: #ffffff;
-  padding: 20px;
+  top:50px;
+  height:500px;
+  width:960px;
+  margin: 100px auto 100px auto;
   border: 1px solid #dddddd;
+  padding: 20px;
+  background-color: #ffffff;
+
 }
