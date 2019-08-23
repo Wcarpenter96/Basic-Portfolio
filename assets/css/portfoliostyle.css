@@ -1,0 +1,52 @@
+
+.col{
+    
+    width:30%;
+    height:30%;
+    float: left;
+    margin:30px;
+    position:relative;
+
+}
+
+.col:hover{
+
+    opacity: 0.8;
+}
+
+
+/* CONTENT FORMATTING */
+
+.title{
+
+    color:#4aaaa5;
+    border-bottom:3px solid #dddddd;
+  }
+  
+  
+  .content{
+  
+    width:960px;
+    height:1000px;
+    top:50px;
+    margin: 100px auto 100px auto;
+    position:relative;
+    background-color: #ffffff;
+    padding: 20px;
+    border: 1px solid #dddddd;
+  }
+
+  .banner{
+
+    position:absolute;
+    bottom:20px;
+    background-color:#4aaaa5;
+    width:300px;
+
+    font-size:10px;
+    color:#ffffff;
+    text-align: center; 
+    
+
+  }
+  

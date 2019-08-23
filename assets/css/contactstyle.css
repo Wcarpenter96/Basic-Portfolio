@@ -78,7 +78,7 @@ textarea:hover{
 .title{
 
     color:#4aaaa5;
-    border-bottom:2px solid #cccccc;
+    border-bottom:3px solid #dddddd;
   }
 
 
@@ -91,6 +91,6 @@ textarea:hover{
     position:relative;
     background-color: #ffffff;
     padding: 20px;
-    border: 2px solid #cccccc;
+    border: 1px solid #dddddd;
   }
   
